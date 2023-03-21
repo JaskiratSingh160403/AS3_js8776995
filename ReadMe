@@ -1,0 +1,41 @@
+The project I am working on entails creating a website for well-known cricketer Virat Kohli, as stated in the "about the project" section.
+His career, accomplishments, personal life, and other pertinent matters pertaining to his life and profession will likely be covered on the website.
+
+The Phrase "navigating your repo": I have used Git and a code hosting service like GitHub to traverse the project's repository.
+I have used Git to navigate between branches, check the project's commit history, and make modifications or additions when you clone the repository to your home workstation.
+
+The Developer's "how to follow any project rules"
+
+It's necessary to examine any project guidelines or coding standards offered by the project before starting the development process.
+The formatting of the code, how to make changes, and how to handle bugs or pull requests are just a few examples of the rules that may be included.
+My contributions will be more in line with the standards of the project if you follow these rules.
+
+
+How to test the project and component, developer:
+
+I develop unit tests for the code using automated testing frameworks like Jest or Mocha to test the website.
+These tests can assist in ensuring that the code is operating as intended and can assist in identifying any flaws or issues before they reach the final stage. 
+
+How to construct a project and launch it live, according to the developer:
+
+I can use a server-side language like Node.js or PHP to handle the backend functionality and a web development framework like React or Angular to design the frontend of the website.
+Following that, i can use a hosting service like Heroku or Amazon to deploy the website into a live production environment.
+Before making the website accessible to users, I will make sure to test it fully and adhere to any deployment instructions supplied by the project.
+
+"How to generate the link for the installed project," developer:
+
+I can  buy a domain name from a domain registrar like GoDaddy or Namecheap and direct it to your live production environment to establish a link for the deployed project.
+I might also need to set up any DNS configurations or SSL certificates that the project mandates. 
+
+How will future improvements and bug fixes be handled? The Reader:
+
+Version control tools like Git will likely be used to manage upcoming improvements and problem fixes.
+The project may manage modifications and releases using branching and merging techniques, and it may monitor issues and feature requests using issue tracking software like Jira or Trello.
+
+
+How the user should manage the project
+
+The user only has to type the developer's URL into their web browser to launch the website.
+They should check to see whether any necessary software or plugins are installed, and that their browser is up to date.
+They can speak with the project's developer or refer to any documentation or support materials if they run into any problems or mistakes. 
+
